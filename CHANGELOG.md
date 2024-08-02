@@ -1,3 +1,33 @@
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/vuejs/vue-loader/compare/v15.11.1...v1.0.0) (2024-08-02)
+
+
+### Features
+
+* 支持 esm 模块热更新 ([f4076e3](https://github.com/vuejs/vue-loader/commit/f4076e3))
+
+
+
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/vuejs/vue-loader/compare/v15.11.1...v1.0.0) (2024-08-02)
+
+
+### Features
+
+* 支持 esm 模块热更新 ([f4076e3](https://github.com/vuejs/vue-loader/commit/f4076e3))
+
+
+
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/vuejs/vue-loader/compare/v15.11.1...v1.0.0) (2024-08-02)
+
+
+### Features
+
+* 支持 esm 模块热更新 ([f4076e3](https://github.com/vuejs/vue-loader/commit/f4076e3))
+
+
+
 <a name="15.11.0"></a>
 # [15.11.0](https://github.com/vuejs/vue-loader/compare/v15.10.2...v15.11.0) (2023-10-18)
 

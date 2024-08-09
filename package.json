@@ -1,5 +1,5 @@
 {
-  "name": "@gez/vue-loader",
+  "name": "@gez/vue2-loader",
   "version": "1.0.0",
   "description": "Vue single-file component loader for Webpack",
   "main": "lib/index.js",
